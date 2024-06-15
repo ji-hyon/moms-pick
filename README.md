@@ -94,7 +94,7 @@
 ```
 - Java 11
 - Spring Boot 2.7.17
-- Spring Security
+- Spring Security 5.7.11
 - WebSocket
 - FastAPI
 - JPA
